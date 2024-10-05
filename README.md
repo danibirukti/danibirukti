@@ -7,6 +7,7 @@ I am an experienced **Full-Stack Web Developer** with a deep passion for buildin
 - 🌱 Currently sharpening my **AWS** skills, aiming to leverage cloud solutions in my projects.
 - 🛠 I specialize in **React, Node.js, Express, MongoDB**, and the **MERN stack**.
 - 💬 I love discussing **web architecture, scalable systems**, and **best coding practices**.
+- 👨‍💻 Check out my portfolio at **[My Portfolio](https://biruktawitdaniel.com/)**
 - 📫 Reach out via email: **danielbiruktawit18@gmail.com**
 
 ### 🚀 Expertise & Skills
