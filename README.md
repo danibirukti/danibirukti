@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biruktawit Daniel</h1>
-<h3 align="center">A Passionate Full-Stack Web Developer</h3>
+<h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 ### 👩‍💻 About Me
 I am an experienced **Full-Stack Web Developer** with a deep passion for building scalable, user-centric applications. I have expertise in both front-end and back-end development, and I am currently enhancing my skill set by exploring cloud technologies like **AWS**.
